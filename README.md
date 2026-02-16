@@ -74,8 +74,6 @@ This project celebrates **velocity-driven development**:
 
 This is the bleeding edge of velocity-driven autonomous development. Come watch the chaos unfold. 🚀
 
-**Runs daily** — `0 22 * * * /usr/bin/slopinator-9000`
-
 ---
 
 **Built with:** TypeScript, Pi Coding Agent, Puppeteer, GitHub API, Twitter API, and pure velocity energy ⚡
