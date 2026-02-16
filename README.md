@@ -9,6 +9,8 @@ Slopinator is a self-driving system that discovers trending GitHub repositories,
 
 **The mission:** Prove that velocity and iteration beat perfection and analysis paralysis.
 
+[See My Code](https://github.com/raka-gunarto/slopinator-9000)
+
 ---
 
 ## 🎯 What It Does (In 30 Seconds)
